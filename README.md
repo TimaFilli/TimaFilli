@@ -4,7 +4,7 @@
 </h1>
 
 <h1 align="center">
-  I`m Junior Node.JS Developer
+  I`m Node.JS Developer
   <br>
   <img src="./img/developer1.png" width="300">
 </h1>
@@ -23,32 +23,33 @@
 ## 🤹 Languages and Tools:
 <div style="display: inline_block" align="center">
 
-  <img alt="JavaScript" height="40" width="45" src="./img/JAVASCRIPT.gif">
+  <img alt="JavaScript" height="40" width="40" src="./img/js1.png">
 
-  <!-- <img alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img alt="TypeScript" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  
+  <!-- <img alt="Python" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
    -->
 
-  <img alt="Node.JS" height="30" width="50" src="./img/nodejs.png">
+  <img alt="Node.JS" height="45" width="50" src="./img/node3.png">
 
   <img alt="Express.JS" height="40" width="45" src="./img/express.png">
 
-  <img alt="Rest API" height="30" width="40" src="./img/restApi.png">
+  <img alt="Rest API" height="40" width="45" src="./img/restApi.png">
 
-  <img alt="GraphQL" height="40" width="40" src="./img/graphql1.png">
+  <img alt="GraphQL" height="40" width="45" src="./img/graphql1.png">
 
-  <img alt="PostgreSQL" height="60" width="50" src="./img/postgresql.png">
+  <img alt="MongoDB" height="40" width="45" src="./img/mongo.png">
 
-  <img alt="MongoDB" height="30" width="40" src="./img/mongodb.png">
+  <img alt="PostgreSQL" height="40" width="45" src="./img/psql3.png">
 
-  <img alt="MongoDB" height="30" width="90" src="./img/mongoose.png">
 
-  <img alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <!-- <img alt="MongoDB" height="40" width="45" src="./img/mongoose.png"> -->
 
-  <img alt="TypeScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  
-  <img alt="Github" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+  <img alt="MySQL" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 
-  <img alt="Github" height="40" width="50" src="./img/git.png">
+  <img alt="Github" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+
+  <img alt="Github" height="40" width="45" src="./img/git.png">
 
 </div>
 
